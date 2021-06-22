@@ -50,7 +50,7 @@
             &nbsp;PHP/Laravel&nbsp;JAVA/JAVAEE&nbsp;.NET&nbsp;&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;&nbsp;Apache2<br>
             <span class="gray">&nbsp;----------- ----------- ------- -------- --------</span><br><br>
             &nbsp;&nbsp;Formation : <br>
-            &nbsp;&nbsp;&nbsp;&nbsp;<span class="orange">en cours</span> <span class="gray">Licence Administrateur des Systèmes d'Information</span><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<span class="green">✓</span> <span class="gray">Licence Administrateur des Systèmes d'Information</span><br>
             &nbsp;&nbsp;&nbsp;&nbsp;<span class="green">✓</span> <span class="gray">BTS Système Numérique</span><br>
             &nbsp;&nbsp;&nbsp;&nbsp;<span class="green">✓</span> <span class="gray">BAC Professionnel Système Electronique et &nbsp;Numerique</span><br>
             <br>
